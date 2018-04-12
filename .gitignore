@@ -262,3 +262,10 @@ __pycache__/
 
 # Omit our lib folders that are being restored from npm
 CoreWiki/wwwroot/lib/
+
+# VSCode 
+.vscode/
+
+# Cake files
+[Tt]ools/
+[Oo]utput/
